@@ -17,11 +17,3 @@
 
 ---
 
-## 📬 Contato
-
-[![LinkedIn](www.linkedin.com/in/anna-pereira-de-carvalho)
-[![Email](annaofc0209@gmail.com)
-[![Site](https://annacarvalho-coder.github.io/MeuPortifolio/)
-
----
-
